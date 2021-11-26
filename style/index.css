@@ -1,0 +1,101 @@
+body {
+    background: url(/img/fondo.jpg) no-repeat center center fixed;
+    background-size: 100% 100%;
+}
+
+.container-fluid .navbar .container #tittle {
+    font-family: "Script MT",Fantasy;
+    font-weight: 900;
+    font-size: 60px;
+    text-shadow: 5px 5px 5px #5fc5c0;
+    color: #fd05dc;
+}
+.container-fluid .navbar #ingresar1 #ingresar {
+    font-family: "Script MT",Fantasy;
+    font-size: 25px;
+}
+
+.container-fluid .pt-2{
+    font-family: "Garamond", Fantasy;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px #ababab;
+    color: #000000;
+
+}
+.container-fluid .container .rounded .col-md-6 .container .pt-3 .col .card{
+    font-family: "Script MT",Fantasy;
+    font-size: 25px;
+}
+
+.container-fluid .container .rounded .col-md-6 .container .pt-3 .col .card .card-header{
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+    color: #fd05dc;
+}
+
+.container-fluid .container .rounded .col-md-6 .text-center p{
+    font-family: "Script MT",Fantasy;
+    font-size: 27px;
+}
+
+.container-fluid .container .rounded .col-md-6 .text-center h1{
+    font-family: "Script MT",Fantasy;
+    font-size: 35px;
+    text-shadow: 5px 5px 5px #5fc5c0;
+    color: #fd05dc;
+}
+
+.container-fluid .container .rounded .col-md-6 .datos{
+    font-family: "Script MT",Fantasy;
+    font-size: 25px;
+    color: #661cf0;
+}
+
+.container-fluid .container .rounded .col-md-6 .text-center .datos #ingresar{
+    font-size: 25px;
+}
+
+.container-fluid footer{
+    font-family: "Script MT",Fantasy;
+    font-size: 20px;
+
+}
+
+.container-fluid .navbar #guardar1 #guardar {
+    font-family: "Script MT",Fantasy;
+    font-size: 25px;
+}
+
+.container-fluid .container .rounded .col-md-12 .container .pt-3 .col .card{
+    font-family: "Script MT",Fantasy;
+    font-size: 25px;
+}
+
+.container-fluid .container .rounded .col-md-12 .container .pt-3 .col .card .card-header{
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+    color: #fd05dc;
+}
+
+.container-fluid .container .rounded .col-md-12 .text-center p{
+    font-family: "Script MT",Fantasy;
+    font-size: 27px;
+}
+
+.container-fluid .container .rounded .col-md-12 .text-center h1{
+    font-family: "Script MT",Fantasy;
+    font-size: 35px;
+    text-shadow: 5px 5px 5px #5fc5c0;
+    color: #fd05dc;
+}
+
+.container-fluid .container .rounded .col-md-12 .datos{
+    font-family: "Script MT",Fantasy;
+    font-size: 25px;
+    color: #661cf0;
+}
+
+.container-fluid .container .rounded .col-md-12 .text-center .datos #ingresar{
+    font-size: 25px;
+}
+
